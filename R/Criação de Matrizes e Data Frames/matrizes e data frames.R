@@ -16,11 +16,11 @@ notas
 
 
 funcionarios <- data.frame(
-  nome <- c("ana", "joao", "maria", "pedro", "lucas", "carla", "beatriz", "gustavo"),
-  idade <- c(24,31, 27, 22, 29, 35, 26, 23),
-  salario <- c(3200, 4500, 3900, 2200, 5100, 6200, 3500, 2100),
-  departamento <- c("rh", "TI", "financeiro", "estagio", "TI", "gerencia", "marketing","estagio"), 
-  efetivo <- c(TRUE, TRUE, TRUE, FALSE, TRUE, TRUE, TRUE, FALSE)
+  nome = c("ana", "joao", "maria", "pedro", "lucas", "carla", "beatriz", "gustavo"),
+  idade = c(24,31, 27, 22, 29, 35, 26, 23),
+  salario = c(3200, 4500, 3900, 2200, 5100, 6200, 3500, 2100),
+  departamento = c("rh", "TI", "financeiro", "estagio", "TI", "gerencia", "marketing","estagio"), 
+  efetivo = c(TRUE, TRUE, TRUE, FALSE, TRUE, TRUE, TRUE, FALSE)
 )
 funcionarios
 
